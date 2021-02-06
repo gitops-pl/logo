@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Logotyp gitops.pl
++ [Landing page: www.gitops.pl](https://www.gitops.pl/)
++ [Dokumentacja](https://docs.gitops.pl/)
++ [Logotyp gitops.pl](https://logo.gitops.pl/)
 
-You can use the [editor on GitHub](https://github.com/gitops-pl/logo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Font
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+        Font in use <a target="_blank" href="https://www.fontspring.com/fonts/jonathan-ball/acre/acre-medium">acre-medium</a> designed by
+        <a target="_blank" href="https://jonathanballdesign.com/index.php">Jonathan Ball</a>
+        and licensed under
+        <a target="_blank" href="https://www.fontsquirrel.com/license/acre">Custom EULA.</a>
+          Icon Designed by
+          <a target="_blank" href="https://thenounproject.com/DmitryBaranovskiy">Dmitry Baranovskiy</a>
 
-```markdown
-Syntax highlighted code block
+## Font
+  
+    #E36459, #7F2923
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Background
 
-1. Numbered
-2. List
+    transparent
 
-**Bold** and _Italic_ and `Code` text
+## Icon
+     
+    #7F2923, #E36459
+    
+    
+## logo
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 1
+![1/cover.png](1/cover.png)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gitops-pl/logo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 2
+![2/cover.png](2/cover.png)
